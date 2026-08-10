@@ -6,7 +6,8 @@ env/
 
 # Local Databases and Logs
 data/
-logs/
+logs/*.log
+logs/*.txt
 *.db
 *.sqlite3
 
