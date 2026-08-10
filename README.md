@@ -1,6 +1,4 @@
-# small & medium projects
-
-## projects for:
+# small & medium projects:
 - stats
 - machine learning
 - deep learning
