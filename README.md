@@ -6,7 +6,7 @@ The repository covers everything from **data and classical machine learning to d
 
 ### Areas
 
-* **Machine Learning** — ML models, feature engineering, evaluation
+* **Machine Learning** — ML models, feature engineering, evaluation, Time series
 * **Deep Learning** — neural networks and PyTorch
 * **Computer Vision** — detection, classification, segmentation
 * **NLP & LLMs** — Transformers, language models, embeddings
